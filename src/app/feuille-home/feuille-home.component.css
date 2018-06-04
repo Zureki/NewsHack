@@ -1,0 +1,9 @@
+#header_div
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #f36523;
+    padding: 3%;
+}
